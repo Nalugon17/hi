@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    -webkit-text-fill-color: rgb(228, 59, 59);
+
+
+    text-align: center;
+    background-image: url("5123.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
